@@ -1,0 +1,118 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->503 GPS: PASS GPS found, but no ID available
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x67 tl:0x64 tc:0x84 hh:0x50 hl:0x0A hc:0x3C t:24.11797c rh:33.08157
+ARDUINO STATUS
+Status........: Upt:12 Frq:41998309 Qsz:0 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:0 Mnt:0 Day:0
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.277344 Lon:602.209717 Alt:442.0
+Accelarometer.: Acx:0.067638 Acy:-0.055667 Acz:-9.439428
+Magnatometer..: Mgx:-0.011597 Mgy:0.007324 Mgz:0.191168
+Barometer.....: Tmb:20.256 Prs:970.312 Alb:363.7
+Humidity......: Tmh:24.139 Hum:33.1
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:0 Met:0 Mdx:0.0 Mdy:0.0 Mdz:0.0
+HT power......: Ato:0x6B Hpu:0x00 Thr:0x30 Abr:0x13
+
+
+-----
+Evt:1 Frq:41998308 Tks:612911 Etm:184252.014594
+Upt:18 Sec:184251 Sqn:11
+
+-----
+Evt:2 Frq:41998308 Tks:28232935 Etm:184252.686833
+Upt:18 Sec:184251 Sqn:12
+
+-----
+Evt:1 Frq:41998308 Tks:2616551 Etm:184254.062301
+Upt:20 Sec:184253 Sqn:13
+
+-----
+Evt:1 Frq:41998307 Tks:2334263 Etm:184256.05558
+Upt:22 Sec:184255 Sqn:14
+
+-----
+Evt:2 Frq:41998307 Tks:11486715 Etm:184256.329084
+Upt:22 Sec:184255 Sqn:15
+
+-----
+Evt:1 Frq:41998307 Tks:7334617 Etm:184258.174641
+Upt:24 Sec:184257 Sqn:16
+
+-----
+Evt:2 Frq:41998307 Tks:9087899 Etm:184258.391028
+Upt:24 Sec:184257 Sqn:17
+
+-----
+Evt:1 Frq:41998307 Tks:2619612 Etm:184300.062374
+Upt:26 Sec:184259 Sqn:18
+
+-----
+Evt:2 Frq:41998307 Tks:9604511 Etm:184300.291062
+Upt:26 Sec:184259 Sqn:19
+
+-----
+Evt:1 Frq:41998307 Tks:2321166 Etm:184302.055268
+Upt:28 Sec:184301 Sqn:20
+
+-----
+Evt:2 Frq:41998307 Tks:4678842 Etm:184302.166674
+Upt:28 Sec:184301 Sqn:21
+
+-----
+Evt:3 Frq:41998307 Tks:5338851 Etm:184302.293794
+Upt:28 Sec:184301 Sqn:22
+
+-----
+Evt:4 Frq:41998307 Tks:6531679 Etm:184302.449317
+Upt:28 Sec:184301 Sqn:23
+
+-----
+Evt:1 Frq:41998305 Tks:2698818 Etm:184304.06426
+Upt:30 Sec:184303 Sqn:24
+
+-----
+Evt:2 Frq:41998305 Tks:5350668 Etm:184304.191662
+Upt:30 Sec:184303 Sqn:25
+
+-----
+Evt:3 Frq:41998305 Tks:22801419 Etm:184304.734575
+Upt:30 Sec:184303 Sqn:26
+
+-----
+Evt:1 Frq:41998306 Tks:4704475 Etm:184305.112016
+Upt:31 Sec:184304 Sqn:27
+
+-----
+Evt:1 Frq:41998305 Tks:3686703 Etm:184306.087782
+Upt:32 Sec:184305 Sqn:28
+
+-----
+Evt:2 Frq:41998305 Tks:35811467 Etm:184306.940471
+Upt:32 Sec:184305 Sqn:29
+
+-----
+Evt:1 Frq:41998305 Tks:2400113 Etm:184308.057148
+Upt:34 Sec:184307 Sqn:30
+
+-----
+Evt:2 Frq:41998305 Tks:4550182 Etm:184308.16549
+Upt:34 Sec:184307 Sqn:31
+
+-----
+Evt:3 Frq:41998305 Tks:6381331 Etm:184308.317433
+Upt:34 Sec:184307 Sqn:32
+
+-----
+Evt:4 Frq:41998305 Tks:13425332 Etm:184308.637096
+Upt:34 Sec:184307 Sqn:33

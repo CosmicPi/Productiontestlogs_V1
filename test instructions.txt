@@ -1,0 +1,16 @@
+Production test procedure
+27/11/16
+
+1)	Download the latest Arduino IDE, 1.6.13
+2)	Download the updates for the SAM3X board 1.6.9 and restart IDE
+3)	Download the latest firmware from https://github.com/quixoft/geo_cosmic_pi via git clone
+4)	Connect the device, with the external psu plugged in first
+5)	Open with Arduino IDE, upload to device. 
+6)	Run sudo ./pi-client.py -u /dev/ttyACM0 -o .
+7)	When session is open, type the following commands in sequence:
+a)	>p
+b)	>s
+c)	>l
+d)	Wait for a few events
+e)	>q
+8)	Rename the test file as unit##.log where ## is the unit number

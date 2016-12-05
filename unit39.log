@@ -1,0 +1,130 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->503 GPS: PASS GPS found, but no ID available
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x68 tl:0x48 tc:0xE6 hh:0x51 hl:0x86 hc:0xCF t:24.72930c rh:33.80637
+ARDUINO STATUS
+Status........: Upt:10 Frq:41998383 Qsz:2 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:0 Mnt:0 Day:0
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:0.0 Lon:0.0 Alt:0.0
+Accelarometer.: Acx:0.135277 Acy:-0.023344 Acz:-9.425661
+Magnatometer..: Mgx:-0.008301 Mgy:-0.026246 Mgz:0.255013
+Barometer.....: Tmb:0.0 Prs:0.0 Alb:0.0
+Humidity......: Tmh:0.0 Hum:0.0
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:4 Met:0.036622 Mdx:-0.014283 Mdy:0.003662 Mdz:-0.058351
+HT power......: Ato:0x6A Hpu:0x00 Thr:0x30 Abr:0x13
+
+
+-----
+Evt:1 Frq:41998384 Tks:720072 Etm:160436.017145
+Upt:15 Sec:160435 Sqn:11
+
+-----
+Evt:1 Frq:41998383 Tks:35191907 Etm:160438.837935
+Upt:17 Sec:160437 Sqn:12
+
+-----
+Evt:1 Frq:41998384 Tks:24704339 Etm:160439.588221
+Upt:18 Sec:160438 Sqn:13
+
+-----
+Evt:1 Frq:41998383 Tks:6825481 Etm:160440.162518
+Upt:19 Sec:160439 Sqn:14
+
+-----
+Evt:1 Frq:41998383 Tks:11986136 Etm:160442.285395
+Upt:21 Sec:160441 Sqn:15
+
+-----
+Evt:1 Frq:41998383 Tks:60617 Etm:160443.001443
+Upt:22 Sec:160442 Sqn:16
+
+-----
+Evt:1 Frq:41998384 Tks:2408279 Etm:160444.057342
+Upt:23 Sec:160443 Sqn:17
+
+-----
+Evt:2 Frq:41998384 Tks:31010861 Etm:160444.795724
+Upt:23 Sec:160443 Sqn:18
+
+-----
+Evt:1 Frq:41998383 Tks:11924378 Etm:160446.283925
+Upt:25 Sec:160445 Sqn:19
+
+-----
+Evt:2 Frq:41998383 Tks:12030914 Etm:160446.570386
+Upt:25 Sec:160445 Sqn:20
+
+-----
+Evt:1 Frq:41998383 Tks:22306134 Etm:160447.531119
+Upt:26 Sec:160446 Sqn:21
+
+-----
+Evt:1 Frq:41998383 Tks:30398139 Etm:160448.723793
+Upt:27 Sec:160447 Sqn:22
+
+-----
+Evt:1 Frq:41998383 Tks:36799916 Etm:160449.876222
+Upt:28 Sec:160448 Sqn:23
+
+-----
+Evt:1 Frq:41998383 Tks:39775116 Etm:160450.947063
+Upt:29 Sec:160449 Sqn:24
+
+-----
+Evt:1 Frq:41998383 Tks:18376840 Etm:160452.437561
+Upt:31 Sec:160451 Sqn:25
+
+-----
+Evt:1 Frq:41998383 Tks:30001117 Etm:160454.71434
+Upt:33 Sec:160453 Sqn:26
+
+-----
+Evt:1 Frq:41998383 Tks:539028 Etm:160455.012834
+Upt:34 Sec:160454 Sqn:27
+
+-----
+Evt:1 Frq:41998383 Tks:21074466 Etm:160456.501792
+Upt:35 Sec:160455 Sqn:28
+
+-----
+Evt:1 Frq:41998384 Tks:7345816 Etm:160459.174907
+Upt:38 Sec:160458 Sqn:29
+
+-----
+Evt:2 Frq:41998384 Tks:15055363 Etm:160459.533382
+Upt:38 Sec:160458 Sqn:30
+
+-----
+Evt:1 Frq:41998382 Tks:14677858 Etm:160500.349486
+Upt:39 Sec:160459 Sqn:31
+
+-----
+Evt:1 Frq:41998383 Tks:33628880 Etm:160501.800718
+Upt:40 Sec:160500 Sqn:32
+
+-----
+Evt:1 Frq:41998383 Tks:5544343 Etm:160503.132013
+Upt:42 Sec:160502 Sqn:33
+
+-----
+Evt:2 Frq:41998383 Tks:23885299 Etm:160503.700733
+Upt:42 Sec:160502 Sqn:34
+
+-----
+Evt:1 Frq:41998383 Tks:1537786 Etm:160504.036615
+Upt:43 Sec:160503 Sqn:35
+
+-----
+Evt:2 Frq:41998383 Tks:10417773 Etm:160504.284667
+Upt:43 Sec:160503 Sqn:36

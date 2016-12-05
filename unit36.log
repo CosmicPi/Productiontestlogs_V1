@@ -1,0 +1,62 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->503 GPS: PASS GPS found, but no ID available
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x62 tl:0x64 tc:0xF3 hh:0x57 hl:0x2A hc:0x14 t:20.68594c rh:36.56058
+ARDUINO STATUS
+Status........: Upt:23 Frq:41998395 Qsz:3 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:0 Mnt:0 Day:0
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.273438 Lon:602.214478 Alt:457.0
+Accelarometer.: Acx:0.172986 Acy:-0.127495 Acz:-9.549565
+Magnatometer..: Mgx:-0.02234 Mgy:0.012085 Mgz:0.095096
+Barometer.....: Tmb:17.906 Prs:968.781 Alb:376.9
+Humidity......: Tmh:20.632 Hum:36.6
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:4 Met:0.036622 Mdx:-0.015015 Mdy:-0.005615 Mdz:0.049806
+HT power......: Ato:0x70 Hpu:0x00 Thr:0x30 Abr:0x13
+
+
+-----
+Evt:1 Frq:41998393 Tks:33885557 Etm:170725.80683
+Upt:27 Sec:170724 Sqn:33
+
+-----
+Evt:1 Frq:41998392 Tks:2347684 Etm:170727.055899
+Upt:29 Sec:170726 Sqn:34
+
+-----
+Evt:1 Frq:41998392 Tks:2351206 Etm:170729.055983
+Upt:31 Sec:170728 Sqn:35
+
+-----
+Evt:2 Frq:41998392 Tks:5264166 Etm:170729.181325
+Upt:31 Sec:170728 Sqn:36
+
+-----
+Evt:1 Frq:41998392 Tks:9417827 Etm:170730.224243
+Upt:32 Sec:170729 Sqn:37
+
+-----
+Evt:1 Frq:41998392 Tks:21471462 Etm:170732.511245
+Upt:34 Sec:170731 Sqn:38
+
+-----
+Evt:1 Frq:41998391 Tks:8315861 Etm:170734.198004
+Upt:36 Sec:170733 Sqn:39
+
+-----
+Evt:2 Frq:41998391 Tks:11110508 Etm:170734.46255
+Upt:36 Sec:170733 Sqn:40
+
+-----
+Evt:1 Frq:41998391 Tks:3097412 Etm:170735.073751
+Upt:37 Sec:170734 Sqn:41

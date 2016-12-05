@@ -1,0 +1,78 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->503 GPS: PASS GPS found, but no ID available
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x62 tl:0x78 tc:0xCD hh:0x56 hl:0x3A hc:0xA3 t:20.73956c rh:36.10281
+ARDUINO STATUS
+Status........: Upt:18 Frq:41998531 Qsz:1 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:0 Mnt:0 Day:0
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.277832 Lon:602.217773 Alt:486.0
+Accelarometer.: Acx:0.005986 Acy:-0.065843 Acz:-9.747691
+Magnatometer..: Mgx:-0.026978 Mgy:0.017579 Mgz:0.100101
+Barometer.....: Tmb:15.858 Prs:968.777 Alb:377.0
+Humidity......: Tmh:20.74 Hum:36.1
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:0 Met:0 Mdx:0.0 Mdy:0.0 Mdz:0.0
+HT power......: Ato:0x71 Hpu:0x00 Thr:0x30 Abr:0x13
+
+
+-----
+Evt:1 Frq:41998531 Tks:19220604 Etm:165418.457649
+Upt:22 Sec:165417 Sqn:13
+
+-----
+Evt:1 Frq:41998531 Tks:16522622 Etm:165421.393409
+Upt:25 Sec:165420 Sqn:14
+
+-----
+Evt:1 Frq:41998530 Tks:27247683 Etm:165422.648777
+Upt:26 Sec:165421 Sqn:15
+
+-----
+Evt:1 Frq:41998530 Tks:2317191 Etm:165424.055173
+Upt:28 Sec:165423 Sqn:16
+
+-----
+Evt:2 Frq:41998530 Tks:2764547 Etm:165424.120998
+Upt:28 Sec:165423 Sqn:17
+
+-----
+Evt:3 Frq:41998530 Tks:14196491 Etm:165424.459021
+Upt:28 Sec:165423 Sqn:18
+
+-----
+Evt:1 Frq:41998530 Tks:14001853 Etm:165427.333389
+Upt:31 Sec:165426 Sqn:19
+
+-----
+Evt:2 Frq:41998530 Tks:16563763 Etm:165427.727778
+Upt:31 Sec:165426 Sqn:20
+
+-----
+Evt:1 Frq:41998529 Tks:16969801 Etm:165429.404057
+Upt:33 Sec:165428 Sqn:21
+
+-----
+Evt:1 Frq:41998529 Tks:2682110 Etm:165431.063862
+Upt:35 Sec:165430 Sqn:22
+
+-----
+Evt:2 Frq:41998529 Tks:8929774 Etm:165431.276483
+Upt:35 Sec:165430 Sqn:23
+
+-----
+Evt:3 Frq:41998529 Tks:20071433 Etm:165431.754391
+Upt:35 Sec:165430 Sqn:24
+
+-----
+Evt:1 Frq:41998530 Tks:1969277 Etm:165432.046889
+Upt:36 Sec:165431 Sqn:25

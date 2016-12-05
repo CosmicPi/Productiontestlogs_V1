@@ -1,0 +1,90 @@
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:JSON->0 Output format set to JSON
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->503 GPS: PASS GPS found, but no ID available
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x64 tl:0xE0 tc:0x17 hh:0x39 hl:0xF2 hc:0x91 t:22.39123c rh:22.29361
+ARDUINO STATUS
+Status........: Upt:13 Frq:41998446 Qsz:1 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:2016 Mnt:12 Day:3
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.07666 Lon:603.289124 Alt:435.0
+Accelarometer.: Acx:0.499206 Acy:-0.183761 Acz:-8.877372
+Magnatometer..: Mgx:0.055544 Mgy:0.069704 Mgz:0.157353
+Barometer.....: Tmb:21.446 Prs:977.073 Alb:305.6
+Humidity......: Tmh:22.391 Hum:22.3
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:0 Met:0 Mdx:0.0 Mdy:0.0 Mdz:0.0
+HT power......: Ato:0x66 Hpu:0x00 Thr:0x30 Abr:0x13
+
+
+-----
+Evt:1 Frq:41998446 Tks:4398668 Etm:210912.104734
+Upt:18 Sec:210911 Sqn:11
+
+-----
+Evt:1 Frq:41998445 Tks:13801060 Etm:210913.328609
+Upt:19 Sec:210912 Sqn:12
+
+-----
+Evt:2 Frq:41998445 Tks:16731009 Etm:210913.726981
+Upt:19 Sec:210912 Sqn:13
+
+-----
+Evt:1 Frq:41998446 Tks:24246408 Etm:210914.577317
+Upt:20 Sec:210913 Sqn:14
+
+-----
+Evt:1 Frq:41998445 Tks:22004163 Etm:210915.523928
+Upt:21 Sec:210914 Sqn:15
+
+-----
+Evt:1 Frq:41998445 Tks:14094716 Etm:210916.335601
+Upt:22 Sec:210915 Sqn:16
+
+-----
+Evt:2 Frq:41998445 Tks:19642298 Etm:210916.803292
+Upt:22 Sec:210915 Sqn:17
+
+-----
+Evt:1 Frq:41998445 Tks:30138782 Etm:210917.717617
+Upt:23 Sec:210916 Sqn:18
+
+-----
+Evt:1 Frq:41998445 Tks:37326548 Etm:210918.88876
+Upt:24 Sec:210917 Sqn:19
+
+-----
+Evt:1 Frq:41998445 Tks:8583412 Etm:210919.204374
+Upt:25 Sec:210918 Sqn:20
+
+-----
+Evt:2 Frq:41998445 Tks:16893841 Etm:210919.606624
+Upt:25 Sec:210918 Sqn:21
+
+-----
+Evt:1 Frq:41998445 Tks:13742677 Etm:210920.327219
+Upt:26 Sec:210919 Sqn:22
+
+-----
+Evt:1 Frq:41998444 Tks:26013930 Etm:210921.619402
+Upt:27 Sec:210920 Sqn:23
+
+-----
+Evt:1 Frq:41998444 Tks:4406719 Etm:210923.104926
+Upt:29 Sec:210922 Sqn:24
+
+-----
+Evt:2 Frq:41998444 Tks:5593293 Etm:210923.238104
+Upt:29 Sec:210922 Sqn:25
+
+-----
+Evt:3 Frq:41998444 Tks:19713026 Etm:210923.70748
+Upt:29 Sec:210922 Sqn:26

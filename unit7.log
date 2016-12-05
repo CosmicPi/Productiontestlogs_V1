@@ -1,0 +1,56 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->0 GPS: PASS Id:76 QUECTL L76 chip GPS found
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x6A tl:0xB4 tc:0xC0 hh:0x47 hl:0x1A hc:0xBF t:26.39169c rh:28.71756
+ARDUINO STATUS
+Status........: Upt:12 Frq:41998219 Qsz:1 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:2016 Mnt:11 Day:27
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.279785 Lon:602.21167 Alt:46.0
+Accelarometer.: Acx:0.095172 Acy:0.113728 Acz:-9.224543
+Magnatometer..: Mgx:-0.156743 Mgy:-0.163579 Mgz:0.218879
+Barometer.....: Tmb:24.452 Prs:968.476 Alb:379.6
+Humidity......: Tmh:26.392 Hum:28.7
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:1 Met:0.036622 Mdx:0.057619 Mdy:-0.003052 Mdz:0.000732
+HT power......: Ato:0x68 Hpu:0x00 Thr:0x30 Abr:0x13
+
+Arduino < xl
+Cmd:XL->2 XL Err:2 No such command
+
+-----
+Evt:1 Frq:41998219 Tks:13773954 Etm:160022.327965
+Upt:23 Sec:160021 Sqn:10
+
+-----
+Evt:2 Frq:41998219 Tks:21721442 Etm:160022.845164
+Upt:23 Sec:160021 Sqn:11
+
+-----
+Evt:1 Frq:41998217 Tks:8923237 Etm:160023.212467
+Upt:24 Sec:160022 Sqn:12
+
+-----
+Evt:2 Frq:41998217 Tks:24243269 Etm:160023.789712
+Upt:24 Sec:160022 Sqn:13
+
+-----
+Evt:1 Frq:41998218 Tks:32772468 Etm:160024.78033
+Upt:25 Sec:160023 Sqn:14
+
+-----
+Evt:1 Frq:41998218 Tks:3785242 Etm:160026.090129
+Upt:27 Sec:160025 Sqn:15
+
+-----
+Evt:2 Frq:41998218 Tks:17711771 Etm:160026.511855
+Upt:27 Sec:160025 Sqn:16

@@ -1,0 +1,92 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->0 GPS: PASS Id:76 QUECTL L76 chip GPS found
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x67 tl:0xE0 tc:0x3A hh:0x51 hl:0xF2 hc:0xF3 t:24.45045c rh:34.01236
+ARDUINO STATUS
+Status........: Upt:23 Frq:41998357 Qsz:1 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:2016 Mnt:11 Day:27
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.278809 Lon:602.222778 Alt:482.0
+Accelarometer.: Acx:0.089187 Acy:-0.085595 Acz:-9.528016
+Magnatometer..: Mgx:-0.094974 Mgy:-0.080691 Mgz:0.185797
+Barometer.....: Tmb:20.771 Prs:967.77 Alb:385.7
+Humidity......: Tmh:24.44 Hum:34.0
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:1 Met:0.036622 Mdx:-0.090945 Mdy:-0.034303 Mdz:0.007202
+HT power......: Ato:0x72 Hpu:0x00 Thr:0x30 Abr:0x13
+
+Arduino < ll
+Cmd:LL->2 LL Err:2 No such command
+
+-----
+Evt:1 Frq:41998357 Tks:23053815 Etm:161750.548922
+Upt:30 Sec:161749 Sqn:45
+
+-----
+Evt:1 Frq:41998356 Tks:2986736 Etm:161753.071116
+Upt:33 Sec:161752 Sqn:46
+
+-----
+Evt:2 Frq:41998356 Tks:3447434 Etm:161753.153201
+Upt:33 Sec:161752 Sqn:47
+
+-----
+Evt:3 Frq:41998356 Tks:14539910 Etm:161753.499402
+Upt:33 Sec:161752 Sqn:48
+
+-----
+Evt:1 Frq:41998357 Tks:1007499 Etm:161754.023989
+Upt:34 Sec:161753 Sqn:49
+
+-----
+Evt:2 Frq:41998357 Tks:5857946 Etm:161754.163469
+Upt:34 Sec:161753 Sqn:50
+
+-----
+Evt:3 Frq:41998357 Tks:22879960 Etm:161754.708252
+Upt:34 Sec:161753 Sqn:51
+
+-----
+Evt:1 Frq:41998357 Tks:24336787 Etm:161756.57947
+Upt:36 Sec:161755 Sqn:52
+
+-----
+Evt:1 Frq:41998356 Tks:1349417 Etm:161757.03213
+Upt:37 Sec:161756 Sqn:53
+
+-----
+Evt:1 Frq:41998357 Tks:5714633 Etm:161758.136068
+Upt:38 Sec:161757 Sqn:54
+
+-----
+Evt:2 Frq:41998357 Tks:10532203 Etm:161758.386845
+Upt:38 Sec:161757 Sqn:55
+
+-----
+Evt:3 Frq:41998357 Tks:15915157 Etm:161758.765792
+Upt:38 Sec:161757 Sqn:56
+
+-----
+Evt:1 Frq:41998356 Tks:11306414 Etm:161800.269211
+Upt:40 Sec:161759 Sqn:57
+
+-----
+Evt:1 Frq:41998356 Tks:2533435 Etm:161802.060322
+Upt:42 Sec:161801 Sqn:58
+
+-----
+Evt:2 Frq:41998356 Tks:6244902 Etm:161802.209016
+Upt:42 Sec:161801 Sqn:59
+
+-----
+Evt:3 Frq:41998356 Tks:11713041 Etm:161802.487909
+Upt:42 Sec:161801 Sqn:60

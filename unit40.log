@@ -1,0 +1,78 @@
+Cmd:JSON->0 Output format set to JSON
+I2CS 0
+I2CS 1
+GPID
+BMID
+DHTU
+Cmd:I2CS->0 Bus:0 0x28 Found:1 Devices
+Cmd:I2CS->0 Bus:1 0x1D 0x40 0x5D Found:3 Devices
+Cmd:GPID->503 GPS: PASS GPS found, but no ID available
+Cmd:BMID->0 BMP: PASS: Found LPS25H on MB bus 1
+Cmd:DHTU->0 rd:0x3A th:0x62 tl:0x58 tc:0x4B hh:0x56 hl:0x8A hc:0x1C t:20.65376c rh:36.25540
+ARDUINO STATUS
+Status........: Upt:20 Frq:41998376 Qsz:0 Mis:0
+BusError......: Ber:0 Adr:0 Reg:0 Bus:0
+GPS date......: Yer:0 Mnt:0 Day:0
+Parameters....: Adn:8 Gri:0 Eqt:1 Chm:3
+HardwareStatus: Htu:58 Bmp:2 Acl:2 Mag:2 Gps:1
+Location......: Lat:4614.270996 Lon:602.191406 Alt:486.0
+Accelarometer.: Acx:0.141861 Acy:0.014964 Acz:-8.902513
+Magnatometer..: Mgx:0.077395 Mgy:0.026246 Mgz:0.112552
+Barometer.....: Tmb:17.979 Prs:967.292 Alb:389.8
+Humidity......: Tmh:20.622 Hum:36.3
+Vibration.....: Vax:0 Vcn:0
+Magnetic Event: Mev:1 Met:0.036622 Mdx:-0.059328 Mdy:-0.007324 Mdz:0.00061
+HT power......: Ato:0x6B Hpu:0x00 Thr:0x30 Abr:0x13
+
+
+-----
+Evt:1 Frq:41998373 Tks:28332632 Etm:171517.674613
+Upt:31 Sec:171516 Sqn:29
+
+-----
+Evt:1 Frq:41998374 Tks:25887447 Etm:171518.616392
+Upt:32 Sec:171517 Sqn:30
+
+-----
+Evt:1 Frq:41998372 Tks:40080408 Etm:171519.954332
+Upt:33 Sec:171518 Sqn:31
+
+-----
+Evt:1 Frq:41998373 Tks:2357065 Etm:171521.056123
+Upt:35 Sec:171520 Sqn:32
+
+-----
+Evt:1 Frq:41998372 Tks:2307900 Etm:171523.054952
+Upt:37 Sec:171522 Sqn:33
+
+-----
+Evt:2 Frq:41998372 Tks:14160932 Etm:171523.39213
+Upt:37 Sec:171522 Sqn:34
+
+-----
+Evt:1 Frq:41998372 Tks:57393 Etm:171524.001367
+Upt:38 Sec:171523 Sqn:35
+
+-----
+Evt:2 Frq:41998372 Tks:21063896 Etm:171524.502907
+Upt:38 Sec:171523 Sqn:36
+
+-----
+Evt:1 Frq:41998371 Tks:2660142 Etm:171526.063339
+Upt:40 Sec:171525 Sqn:37
+
+-----
+Evt:2 Frq:41998371 Tks:10295073 Etm:171526.30847
+Upt:40 Sec:171525 Sqn:38
+
+-----
+Evt:3 Frq:41998371 Tks:10963281 Etm:171526.56951
+Upt:40 Sec:171525 Sqn:39
+
+-----
+Evt:1 Frq:41998371 Tks:28924253 Etm:171528.688699
+Upt:42 Sec:171527 Sqn:40
+
+-----
+Evt:1 Frq:41998371 Tks:4320090 Etm:171529.102863
+Upt:43 Sec:171528 Sqn:41
